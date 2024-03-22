@@ -8,7 +8,6 @@
 
  <div>
   <a href="https://github.com/NatanaelBraga-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelBraga-dev&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelBraga-dev&layout=compact&langs_count=16&theme=one_dark_pro"/>
 </div>
     
