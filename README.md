@@ -4,6 +4,8 @@
 - 🌱 Estudando Javascript
 - 🌎 Inglês: Básico
 
+<p>Os que são loucos o suficiente para acreditarem que podem mudar o mundo são os que o fazem</p>
+
  <div>
   <a href="https://github.com/NatanaelBraga-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelBraga-dev&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
