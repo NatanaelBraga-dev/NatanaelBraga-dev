@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript
 - 🌎 Inglês: Básico
 
-<p>Os que são loucos o suficiente para acreditarem que podem mudar o mundo são os que o fazem</p>
+<p><i>"Os que são loucos o suficiente para acreditarem que podem mudar o mundo são os que o fazem" Jobs, Steve.</i></p>
 
  <div>
   <a href="https://github.com/NatanaelBraga-dev">
