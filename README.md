@@ -1,6 +1,6 @@
 ### Olá, eu sou o Natanael! 👋
 
-- 🔭 Hoje trabalho como fullstack em projetos pessoais e coletivos
+- 🔭 Hoje trabalho como desenvolvedor e freelancer
 - 🌱 Estudando Javascript e Java
 - 🌎 Inglês: Básico
 
