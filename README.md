@@ -1,7 +1,7 @@
 ### Olá, eu sou o Natanael! 👋
 
 - 🔭 Hoje trabalho como fullstack em projetos pessoais e coletivos
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript e Java
 - 🌎 Inglês: Básico
 
 <p><i>"Os que são loucos o suficiente para acreditarem que podem mudar o mundo são os que o fazem" Jobs, Steve.</i></p>
